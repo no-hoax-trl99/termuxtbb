@@ -6,7 +6,7 @@ a ='\033[92m'
 b ='\033[91m'
 c ='\033[0m'
 os.system('clear')
-print(a+'\t  Tombol Tambahan Termux ')
+print(a+'\t  Tombol Tambahan Termux no hoax trl99')
 print(a+'\t  UP,Down,right,Left, CTRL ')
 print(b+'\t  Bye:   Kumpulan Remaja')
 print('\t web : Kumpulanremaja.com')
